@@ -1,0 +1,6 @@
+1. Cada vez que se cree un usuario, pertenecerá a un equipo. Se le podrá asignar a uno ya creado o se creará uno nuevo en el caso de que no.
+2. Para crear un proyecto, deberá existir tareas y un equipo al mando.
+
+Si se crean dos tareas con el mismo asunto se le pedirá al usuario decidir si quiere crear un proyecto o no.
+Existirá un mensaje para no volver a mostrar este mensaje y por tanto si el usuario lo pulsa, a partir de ahí cuando hayan dos tareas o más
+con el mismo asunto se creará un proyecto
